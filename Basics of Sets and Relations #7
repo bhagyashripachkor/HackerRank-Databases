@@ -1,0 +1,13 @@
+Consider the following data table named Student.
+Student Name        Number  Sex  
+Nina                3412    F 
+Mike                1234    M  
+Nelson              2341    F  
+Here is another data table named Teaching Assistants
+Subject     ID
+Physics     3412
+Chemistry   1111
+Mathematics 2341 
+What is the count of rows returned in the following join operation? 
+Student ⊳⊲(Number=ID) Teaching Assistants
+2
