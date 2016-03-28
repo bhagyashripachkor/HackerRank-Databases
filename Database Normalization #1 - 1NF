@@ -1,0 +1,15 @@
+The following unnormalized table named PRODUCT is transformed to first normal form (1NF) by splitting it into two tables which have X and Y rows (such that X <Y) 
+
+respectively. Both the tables have Z colums.
+*Product-ID*    *Colors*    *Price*
+1               Red,Green   15.0
+2               Blue        18.0
+3               Yellow,Pink 2.5
+What are the values of X, Y, Z? Enter these integers, each on a new line, in the text-box below. Do not leave any leading or trailing spaces.
+3
+5
+2
+
+
+expl:- since x< y 1st table will hav only 3 attr so it is price col so table 1 = prod id and price same table 2 =prod id and colors(5) and each table have 2 
+col
