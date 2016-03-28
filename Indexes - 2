@@ -1,0 +1,2 @@
+How does a non clustered index point to the data?
+It is used for pointing data rows containing key values.
